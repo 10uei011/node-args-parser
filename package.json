@@ -1,0 +1,31 @@
+{
+  "name": "node-args-parser",
+  "version": "0.0.1",
+  "description": "Command line arguments parser for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test/*",
+    "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec ./test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10uei011/node-args-parser.git"
+  },
+  "keywords": [
+    "args",
+    "parser",
+    "commandline"
+  ],
+  "author": "dipesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/10uei011/node-args-parser/issues"
+  },
+  "homepage": "https://github.com/10uei011/node-args-parser#readme",
+  "devDependencies": {
+    "coveralls": "^2.12.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "standard": "^9.0.2"
+  }
+}
