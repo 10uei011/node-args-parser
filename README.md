@@ -1,7 +1,7 @@
 # node-args-parser
 
 [![Build Status](https://travis-ci.org/10uei011/node-args-parser.svg?branch=master)](https://travis-ci.org/10uei011/node-args-parser)
-[![Coverage Status](https://coveralls.io/repos/github/10uei011/node-args-parser/badge.svg)](https://coveralls.io/github/10uei011/node-args-parser)
+[![Coverage Status](https://coveralls.io/repos/github/10uei011/node-args-parser/badge.svg?branch=master)](https://coveralls.io/github/10uei011/node-args-parser?branch=master))
 
 Node.js command line arguments parser.
 
