@@ -46,7 +46,7 @@ Will return:
 ```json
 {
   "f": true,
-  "r": 'resource',
+  "r": 'resource'
 }
 ```
 
